@@ -1,4 +1,4 @@
-# N47IntllijTheme
+# N47IntellijTheme
 
 ![Build](https://github.com/prateek-agarwal002/N47IntllijTheme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
